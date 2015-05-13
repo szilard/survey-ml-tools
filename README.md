@@ -20,31 +20,18 @@ GUI/command line..., or small data/large scale..., open source/commercial, or by
 
 - [R caret](http://topepo.github.io/caret/index.html)
 - [scikit-learn](http://scikit-learn.org/stable/) 
-
-[H2O](http://h2o.ai/)
-
-[Spark MLLib](https://spark.apache.org/docs/1.2.1/mllib-guide.html)
-
-[Mahout](http://mahout.apache.org/)
-
-[Weka](http://www.cs.waikato.ac.nz/ml/weka/)
-
-[xgboost](https://github.com/dmlc/xgboost)
-
-[Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit)
-
-[libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)/[liblinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
-
-[libfm](http://www.libfm.org/)/[libffm](http://www.csie.ntu.edu.tw/~cjlin/libffm/)
-
-[fest](http://lowrank.net/nikos/fest/)
-
-[Dato/Graphlab](https://dato.com/)
-
-[RapidMiner](https://rapidminer.com/)
-
-[SAS Enterprise Miner](http://www.sas.com/en_us/software/analytics/enterprise-miner.html)
-
-[IBM SPSS Modeler](http://www-03.ibm.com/software/products/en/spss-modeler)
+- [H2O](http://h2o.ai/)
+- [Spark MLLib](https://spark.apache.org/docs/1.2.1/mllib-guide.html)
+- [Mahout](http://mahout.apache.org/)
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
+- [xgboost](https://github.com/dmlc/xgboost)
+- [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit)
+- [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)/[liblinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+- [libfm](http://www.libfm.org/)/[libffm](http://www.csie.ntu.edu.tw/~cjlin/libffm/)
+- [fest](http://lowrank.net/nikos/fest/)
+- [Dato/Graphlab](https://dato.com/)
+- [RapidMiner](https://rapidminer.com/)
+- [SAS Enterprise Miner](http://www.sas.com/en_us/software/analytics/enterprise-miner.html)
+- [IBM SPSS Modeler](http://www-03.ibm.com/software/products/en/spss-modeler)
 
 
