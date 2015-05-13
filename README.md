@@ -18,8 +18,8 @@ of tools. Do we group them by supervised/unsupervised..., or used from R/Python/
 GUI/command line..., or small data/large scale..., open source/commercial, or by algo?
 
 
-[R caret](http://topepo.github.io/caret/index.html)
-[scikit-learn](http://scikit-learn.org/stable/) 
+- [R caret](http://topepo.github.io/caret/index.html)
+- [scikit-learn](http://scikit-learn.org/stable/) 
 
 [H2O](http://h2o.ai/)
 
