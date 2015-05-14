@@ -13,7 +13,10 @@ LA Data Science/Machine Learning meetup (We've got much better response rates wi
 "quick show of hands" surveys than with sending out polls e.g. via email). Results of
 the survey will be published here.
 
-So, feel free to **contribute via github issues**. I'm also interested in a taxonomy
+So, feel free to **contribute via github issues**. Let me know if you are using a tool that's
+not already in the list below. 
+
+I'm also interested in a taxonomy
 of tools. Do we group them by supervised/unsupervised..., or used from R/Python/Hadoop..., or 
 GUI/command line..., or small data/large scale..., open source/commercial, or by algo?
 
