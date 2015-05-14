@@ -3,7 +3,7 @@
 
 Most data scientists are using R/Python for every day work in data
 munging, visualization and modeling (e.g. machine learning), but
-other tools are used as well, see e.g.
+many other tools are used as well, see e.g.
 this [survey](http://datascience.la/data-science-toolbox-survey-results-surprise-r-and-python-win/) 
 we did at the LA Data Science meetup. 
 
@@ -13,7 +13,7 @@ LA Data Science/Machine Learning meetup (We've got much better response rates wi
 "quick show of hands" surveys than with sending out polls e.g. via email). Results of
 the survey will be published here.
 
-So, feel free to **contribute via github issues** (1 tool/issue please). I'm also interested in a taxonomy
+So, feel free to **contribute via github issues**. I'm also interested in a taxonomy
 of tools. Do we group them by supervised/unsupervised..., or used from R/Python/Hadoop..., or 
 GUI/command line..., or small data/large scale..., open source/commercial, or by algo?
 
