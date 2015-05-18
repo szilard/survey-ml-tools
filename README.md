@@ -21,8 +21,9 @@ of tools. Do we group them by supervised/unsupervised..., or used from R/Python/
 GUI/command line..., or small data/large scale..., open source/commercial, or by algo?
 
 
-- [R caret](http://topepo.github.io/caret/index.html)
+- [R packages](http://cran.r-project.org/web/views/MachineLearning.html)
 - [scikit-learn](http://scikit-learn.org/stable/) 
+- [Matlab](https://www.mathworks.com/products/matlab/)/[Octave](https://www.gnu.org/software/octave/)
 - [H2O](http://h2o.ai/)
 - [Spark MLLib](https://spark.apache.org/docs/1.2.1/mllib-guide.html)
 - [Mahout](http://mahout.apache.org/)
@@ -36,5 +37,11 @@ GUI/command line..., or small data/large scale..., open source/commercial, or by
 - [RapidMiner](https://rapidminer.com/)
 - [SAS Enterprise Miner](http://www.sas.com/en_us/software/analytics/enterprise-miner.html)
 - [IBM SPSS Modeler](http://www-03.ibm.com/software/products/en/spss-modeler)
+- [KNIME](https://www.knime.org/)
+- [Alteryx](http://www.alteryx.com/)
+- [Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/?rnd=1)
+- [BigML](https://bigml.com/)
+
+
 
 
