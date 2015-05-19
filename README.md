@@ -43,6 +43,7 @@ GUI/command line..., or small data/large scale..., open source/commercial, or by
 - [Alteryx](http://www.alteryx.com/)
 - [Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/?rnd=1)
 - [BigML](https://bigml.com/)
+- [Amazon ML](https://aws.amazon.com/machine-learning/)
 
 
 
