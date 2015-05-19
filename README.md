@@ -22,6 +22,8 @@ GUI/command line..., or small data/large scale..., open source/commercial, or by
 
 
 - [R packages](http://cran.r-project.org/web/views/MachineLearning.html)
+  * [caret](http://caret.r-forge.r-project.org/)
+  * [gbm](http://cran.r-project.org/web/packages/gbm/index.html)
 - [scikit-learn](http://scikit-learn.org/stable/) 
 - [Matlab](https://www.mathworks.com/products/matlab/)/[Octave](https://www.gnu.org/software/octave/)
 - [H2O](http://h2o.ai/)
