@@ -22,8 +22,10 @@ GUI/command line..., or small data/large scale..., open source/commercial, or by
 
 
 - [R packages](http://cran.r-project.org/web/views/MachineLearning.html)
-  * [caret](http://caret.r-forge.r-project.org/)
+  * [glmnet](http://cran.r-project.org/web/packages/glmnet/index.html)
+  * [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html)
   * [gbm](http://cran.r-project.org/web/packages/gbm/index.html)
+  * [caret](http://caret.r-forge.r-project.org/)
 - [scikit-learn](http://scikit-learn.org/stable/) 
 - [Matlab](https://www.mathworks.com/products/matlab/)/[Octave](https://www.gnu.org/software/octave/)
 - [H2O](http://h2o.ai/)
