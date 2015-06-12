@@ -25,7 +25,7 @@ GUI/command line..., or small data/large scale..., open source/commercial, or by
   * [glmnet](http://cran.r-project.org/web/packages/glmnet/index.html)
   * [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html)
   * [gbm](http://cran.r-project.org/web/packages/gbm/index.html)
-  * [e1071(libsvm)](http://cran.r-project.org/web/packages/e1071/index.html)/[kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
+  * [e1071(libsvm)](http://cran.r-project.org/web/packages/e1071/index.html)
   * [caret](http://caret.r-forge.r-project.org/)
 - [scikit-learn](http://scikit-learn.org/stable/) 
 - [Matlab](https://www.mathworks.com/products/matlab/)/[Octave](https://www.gnu.org/software/octave/)
