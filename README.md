@@ -1,5 +1,5 @@
 
-### List of Software Tools for Machine Learning
+### Software Tools for Machine Learning
 
 Quick informal survey at the 
 [Los Angeles Machine learning meetup](http://www.meetup.com/Los-Angeles-Machine-Learning-Data-Science/events/222698365/)
