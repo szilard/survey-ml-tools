@@ -4,7 +4,6 @@
 Quick informal survey at the 
 [Los Angeles Machine learning meetup](http://www.meetup.com/Los-Angeles-Machine-Learning-Data-Science/events/222698365/)
 about tools used for machine learning.
-
 Numbers reflect counts (50 people present).
 
 - [R packages](http://cran.r-project.org/web/views/MachineLearning.html) 15
